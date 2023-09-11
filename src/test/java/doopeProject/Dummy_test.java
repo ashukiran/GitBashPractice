@@ -13,4 +13,6 @@ public void method2() {
 	System.out.println("i am working on automation framework");
 }
 }
+
+//1st push using GitBash
 //pulling back from github

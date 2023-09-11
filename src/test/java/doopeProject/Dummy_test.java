@@ -14,5 +14,5 @@ public void method2() {
 }
 }
 
-//1st push using GitBash
+//1st pull using GitBash
 //pulling back from github

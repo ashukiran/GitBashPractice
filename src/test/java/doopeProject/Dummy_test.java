@@ -13,6 +13,6 @@ public void method2() {
 	System.out.println("i am working on automation framework");
 }
 }
-
+//push ashwini-git bash
 //1st pull using GitBash
 //pulling back from github

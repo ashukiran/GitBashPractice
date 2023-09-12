@@ -1,7 +1,6 @@
 package doopeProject;
 
 import org.testng.annotations.Test;
-import com.google.common.annotations.VisibleForTesting;
 
 @Test
 public class dummy_class1 {
